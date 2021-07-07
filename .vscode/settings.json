@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 16,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "window.zoomLevel": 0,
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "tabnine.experimentalAutoImports": true
+
+}
